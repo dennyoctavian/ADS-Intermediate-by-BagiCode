@@ -83,6 +83,8 @@
         android:gravity="center"
         android:padding="8dp"
         android:text="Choose your favorite"
+        android:textColor="@color/black"
+        android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
